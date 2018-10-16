@@ -1,0 +1,16 @@
+.container {
+    flex: 0 0 100px;
+    align-items: flex-start;
+    justify-content: center;
+    display: flex;
+}
+
+
+.container button {
+    border: 1px solid var(--color-borders);
+    width: 80px;
+    height: 80px;
+    background: transparent;
+    border-radius: 500px;
+    background: url('../../assets/icon-check.svg') no-repeat center;
+}

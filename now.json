@@ -1,0 +1,9 @@
+{
+  "alias": "payment-request-demo.zouhir.codes",
+  "scale": {
+    "sfo1": {
+      "min": 1,
+      "max": 1
+    }
+  }
+}

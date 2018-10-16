@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    max-width: 550px;
+}
+.carouselWrapper {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    flex: 1;
+}
+
+
+.carousel {
+    position: relative;
+    bottom: -15px;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    height: 100%;
+    width: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+}

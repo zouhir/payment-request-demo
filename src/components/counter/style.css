@@ -1,0 +1,35 @@
+.container {
+    flex: 0 0 60px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    bottom: 60px;
+    left: 0;
+    width: 100%;
+    padding: 0 30px;
+    color: var(--color-primary);
+}
+
+
+.container button {
+    border: none;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    font-size: 14px;
+}
+
+.left {
+    flex: 0 0 40px;
+}
+
+.right {
+    flex: 0 0 40px;
+}
+
+.counter {
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+}

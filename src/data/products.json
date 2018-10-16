@@ -1,0 +1,26 @@
+[
+  {
+    "image": "../../assets/product-1.png",
+    "title": "Vovo Chair",
+    "subtitle": "Vovo has a slightly timeless design",
+    "price": "300"
+  },
+  {
+    "image": "../../assets/product-2.png",
+    "title": "Clippy Clip",
+    "subtitle": "The real deal, Office 2000 assistant.",
+    "price": "25"
+  },
+  {
+    "image": "../../assets/product-3.png",
+    "title": "Crown Boombox",
+    "subtitle": "Vintage Boombox Ghettoblaster.",
+    "price": "500"
+  },
+  {
+    "image": "../../assets/product-4.png",
+    "title": "Justin Bieber Album",
+    "subtitle": "Beliebers should have 1 of those.",
+    "price": "10"
+  }
+]
